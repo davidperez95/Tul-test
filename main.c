@@ -14,7 +14,7 @@ int main() {
   
   struct Tree* root = NULL;
   //Create an ordered binary tree
-    root = insertNode(root, 50);
+    root = insertNode(root, 5);
     insertNode(root, 3);
     insertNode(root, 2);
     insertNode(root, 4);
