@@ -23,9 +23,9 @@ int main() {
     insertNode(root, 8);
     //Check if the created binary tree is a binary search tree
     if (checkIsBinarySearchTree(root)) {
-      printf("%s", "Yes");
+      printf("%s\n", "Yes");
     } else {
-      printf("%s", "No");
+      printf("%s\n", "No");
     }
     return 0;
 }
