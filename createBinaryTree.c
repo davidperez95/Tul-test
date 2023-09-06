@@ -1,7 +1,5 @@
 #include "binaryTree.h"
 
-/* A utility function to insert a new Node with
-   given key in BST */
 /**
  * insert - Function that insert a new node, depending on its value
  * @Node: Pointer to the top of the tree
