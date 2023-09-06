@@ -41,10 +41,12 @@ Then you must run the compiler as follows:
 
 `gcc -o main main.c createBinaryTree.c checkBinaryTree.c`
 
-###Explanation
+### Explanation
 
 `gcc` -  compiler
+
 `-o main` - flag to name the resulting executable file as main
+
 `main.c createBinaryTree.c chechBinaryTree.c`- files needed for the main function to work properly
 
 After running this command in your terminal, an executable file named main will have been created.
